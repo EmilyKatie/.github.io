@@ -1,0 +1,42 @@
+body{
+	background-color: yellow;
+}
+
+div:hover {overflow: visible;}
+
+h1{color: purple;}
+li{list-style-type: none;}
+
+.boldClass{
+	font-weight: bold;
+}
+#bigID{
+	font-size: 36px;
+} 
+h2{color: blue;}
+#bigID{
+	font-size: 36;
+	{text-align: left}
+}
+#vertical{margin:0 auto; width:0;}
+h3{
+
+	text-align: left;
+
+	
+}
+	
+p {text-align: left;}
+
+h4{font-family: verdana; 
+	color: pink; 
+	font-size: 36}
+
+h5{font-family: wingdings}
+
+h6
+#bigID {font-size: 28}
+
+#ContactMe{width:4}
+
+
